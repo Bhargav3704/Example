@@ -1,1 +1,2 @@
-print("Yaru nee")
+print("Yaru nee")\
+print
